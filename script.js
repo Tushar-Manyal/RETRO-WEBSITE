@@ -11,7 +11,7 @@ tl.to("#main",{
 })
 
 tl.to("#main",{
-    y:"10vh",
+    y:"-60vh",
     duration:1,
     delay:1
 })
